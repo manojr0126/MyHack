@@ -1,0 +1,8 @@
+TestAPI\Model\TestModel.class
+TestAPI\Model\Status.class
+TestAPI\Model\ResponseModel.class
+TestAPI\Model\Result$Metadata.class
+TestAPI\Model\Result$Parameters.class
+TestAPI\Model\RequestModel.class
+TestAPI\HelloWorld.class
+TestAPI\Model\Result.class
