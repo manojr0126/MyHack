@@ -8,7 +8,6 @@ public class Result {
 	public String speech;
 	public String action;
 	
-	@JsonIgnore
 	public Parameters parameters;
 	public Metadata metadata;
 	public String score;
