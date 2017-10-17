@@ -15,6 +15,7 @@ public class Result {
 	public class Parameters
 	{
 		public String date;
+		public String medicine;
 		public String recurrence;
 		public String time;
 	}
