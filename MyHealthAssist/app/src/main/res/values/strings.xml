@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DHA</string>
+    <string name="voice_name">sarah</string>
+    <string name="help">How can I help you?</string>
+    <string name="you_may_speak">You may speak now</string>
+    <string name="voice_search_missed">Oops! I didn\'t heard that. You should speak after the beep.</string>
+    <string name="voice_wait_msg">Do you want me to wait? Say yes or no.</string>
+    <string name="voice_wait">Okay, Take your time. I will wait for couple of minutes.</string>
+    <string name="voice_medicine_reminder">Hi there, This is a reminder to take %s now.</string>
+</resources>
